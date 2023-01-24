@@ -70,7 +70,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- Click [here](https://LeslieAine.github.io/awesome-books/) to see the live demo of the project.
+- Click [here](https://leslieaine.github.io/awesomeBooksES6/) to see the live demo of the project.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
