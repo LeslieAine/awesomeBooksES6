@@ -43,7 +43,6 @@ for (let i = 0; i < bookCollection.collection.length; i += 1) {
 }
 
 for (let i = 0; i < bookEntryRemove.length; i += 1) {
-  /* eslint-disable no-loop-func */
   bookEntryRemove[i].addEventListener('click', (event) => {
     const datasetId = event.target.dataset.id;
     bookCollection.removeBook(datasetId);

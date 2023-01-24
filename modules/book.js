@@ -1,8 +1,3 @@
-/* eslint-disable no-unused-vars */
-const formEl = document.getElementById('form');
-const titleEl = document.getElementById('title');
-const nameEl = document.getElementById('author');
-
 export default class BookCollection {
   constructor() {
     this.collection = JSON.parse(window.localStorage.getItem('bookCollection')) || [];
